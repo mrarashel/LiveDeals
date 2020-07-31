@@ -1,0 +1,10 @@
+---
+layout: default
+img: dog.jpg
+category: Services
+title: Donate
+description: |
+---
+   Open the github project link or project's twitter page by the Brave Browser and send a tip from your BAT rewards wallets.  
+
+  
