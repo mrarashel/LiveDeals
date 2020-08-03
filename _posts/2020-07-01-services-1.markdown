@@ -6,4 +6,4 @@ title: Current steps and procedures of the project
 description: |
 ---
 
-  At present, our project is in the theoretical stage. Our UX team has collected some UX-Oriented proposals, although our core team has so far kept all the proposals under review. Once each step is successfully implemented, it will be placed on the project's [Github](github.com) repository, so that the world-wide developer community can easily contribute to the implementation of the project.
+  At present, our project is in the theoretical stage. Our UX team has collected some UX-Oriented proposals, although our core team has so far kept all the proposals under review. Once each step is successfully implemented, it will be placed on the project's [Github](https://github.com/mrarashel/LiveDeal) repository, so that the world-wide developer community can easily contribute to the implementation of the project.
